@@ -1,0 +1,2 @@
+observation_id,species_id,species_name,species_name_scientific,validation,gps_coordinates,accuracy,source,date,amount,life_stage,activity,location_id,location,observer_id,observer_name,counting_method,method
+336664701,10041,Gewone Wasbeer,Procyon lotor,Goedgekeurd (met bewijs),"50.1279, 5.3538",30m,Site,2025-01-06 00:54,1,onbekend,ter plaatse,43583,Nassogne (LX),43947,Didier Vieuxtemps,geen,met fotoval
