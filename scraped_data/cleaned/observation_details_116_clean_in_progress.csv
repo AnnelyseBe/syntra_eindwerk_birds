@@ -2604,3 +2604,7 @@ observation_id,species_id,species_name,species_name_scientific,validation,gps_co
 332041487,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (met bewijs),"51.2222, 4.4835",onbekend,ObsIdentify,2024-10-25 17:57,1,onbekend,ter plaatse,27156,Deurne (Antwerpen) (AN),393391,Maddy VdE,geen,onbekend
 332132504,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (automatische validatie),"50.4122, 4.3249",5m,ObsIdentify,2024-10-25 17:36,1,onbekend,ter plaatse,41888,Fontaine-l'Evêque (HA),813232,No Gzm,geen,onbekend
 332160306,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (met bewijs),"50.9051, 4.6158",15m,Site,2024-10-25,5,onbekend,ter plaatse,30900,Veltem-Beisem - Dorp (VB),797370,Nathalie Panken,geen,onbekend
+332055265,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (automatische validatie),"50.9952, 4.4966",25m,ObsIdentify,2024-10-25 17:23,1,onbekend,ter plaatse,27697,Hofstade (Zemst) (VB),275985,Naturegirl90,geen,onbekend
+332032672,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (automatische validatie),"50.9698, 4.1540",4m,iObs,2024-10-25 17:02,1,onbekend,ter plaatse,23248,Opwijk (VB),148789,Wim Dierickx,onbekend,onbekend
+332029818,116,Halsbandparkiet,Psittacula krameri,Goedgekeurd (automatische validatie),"50.8479, 4.2189",2m,ObsIdentify,2024-10-25 16:46,1,onbekend,ter plaatse,23242,Schepdaal (VB),255616,yorben coppens,geen,onbekend
+332013987,116,Halsbandparkiet,Psittacula krameri,Onbekend,"50.4331, 4.2423",,ObsMapp,2024-10-25 14:58,1,onbekend,overvliegend,42050,Carnières (HA),146409,Pirson Anne et Stéphane,exact aantal,gezien en gehoord
