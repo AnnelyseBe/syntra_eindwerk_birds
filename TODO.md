@@ -1,0 +1,1 @@
+- [ ] bij de csv is er soms iets vreemd bij de "amount". Die wordt weergegeven in verschillende lijnen
