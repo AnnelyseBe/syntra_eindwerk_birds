@@ -11,9 +11,6 @@
 	"containerEnv": {
 		"PYTHONPATH": "${containerWorkspaceFolder}"  // Adjust the path accordingly
 	},
-	"runArgs": [
-		"--network=mynetwork"
-	],
 	"customizations": {
 		"vscode": {
 			"extensions": [
