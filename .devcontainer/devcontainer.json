@@ -22,14 +22,14 @@
 				"ms-python.vscode-pylance",
 				"ms-vscode-remote.remote-containers",
 				"ms-toolsai.jupyter",
-				"demystifying-javascript.python-extensions-pack",
+				// "demystifying-javascript.python-extensions-pack",
 				"ms-toolsai.vscode-jupyter-powertoys",
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
 				"mechatroner.rainbow-csv",
 				"congyiwu.vscode-jupytext",
 				"GrapeCity.gc-excelviewer",
-				"pancho111203.vscode-ipython"
+				// "pancho111203.vscode-ipython"
 			],
 			"settings": {
 				"python.testing.pytestEnabled": true,

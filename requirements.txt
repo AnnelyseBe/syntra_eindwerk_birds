@@ -1,14 +1,14 @@
 numpy==2.1.2
-GitPython==3.1.43
 matplotlib==3.9.2
-pillow==11.0.0 # images
 ipykernel # is a necessary package that allows Jupyter notebooks to interact with your Python environment
 pandas==2.2.3
-dask[complete]==2024.12.1 # voor het analyseren van grote datasets op 1 computer
+geopandas==1.0.1 
 beautifulsoup4==4.12.3 # extract information from html page -> webscraping
 requests==2.32.3 # http calls
-psycopg2-binary
-sqlalchemy
+sqlalchemy # sql toolkit
 pytest==8.3.4 # unit testing
-rich # pretty formatting in terminal
+folium==0.19.4 # beautiful maps
+seaborn==0.13.2 # statistical data visualization (based on matplotlib)
+
+# rich # pretty formatting in terminal
 
