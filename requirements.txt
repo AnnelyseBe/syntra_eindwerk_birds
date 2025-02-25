@@ -1,5 +1,7 @@
 numpy==2.1.2
 matplotlib==3.9.2
+plotly==6.0.0 #  interactive data visualization 
+ipywidgets==8.1.5 # Interactive HTML Widgets like sliders, progress bars, ....
 ipykernel # is a necessary package that allows Jupyter notebooks to interact with your Python environment
 pandas==2.2.3
 geopandas==1.0.1 
