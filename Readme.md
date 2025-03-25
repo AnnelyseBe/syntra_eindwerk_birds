@@ -42,23 +42,14 @@ Na enkele mails (met een gemiddelde responstijd van 10 dagen), werd ik naar een 
 
 ### Scraping van de data
 Op de website waarnemingen.be bevat geregistreerde waarnemingen sinds 1970. 
-Hiervoor ben ik de waarnemingen van de halsbandparkiet en boomklever gaan ophalen. Vermits dit ging over 
+Hiervoor ben ik de waarnemingen van de halsbandparkiet en boomklever gaan ophalen. 
+Dit betrof ongeveer 277 000 waarnemingen van de boomklever en 97 000 voor de halsbandparkiet. 
+Vermits dit veel data betreft en we niet teveel load op de server willen zetten, hebben we dit opgehaald met tussen elke call een random delay van enkele seconden.
+Het verzamelen van de data heeft zo ongeveer 1 maand in beslag genomen.
 
+## Aannames
+- In onze statistische analyse verzamelen we jaarlijks meer gegevens doordat steeds meer mensen hun waarnemingen loggen op waarnemingen.be. We kennen het totale aantal waarnemingen van vogels. We gaan ervan uit dat het aandeel van elke vogelsoort ten opzichte van elkaar constant blijft als de populatie constant blijft. Als het aandeel van een bepaalde vogelsoort stijgt, nemen we aan dat er daadwerkelijk meer vogels van die soort voorkomen.
 
-
-    - probleem: 12 000 000 waarnemingen -> panda's kan dit niet aan
-    Oplossing: Scale for Large Data: If your raw file has millions of rows, use tools like Dask (eenvoudig, op 1 machine) or PySpark (complexer, interessant voor naar clusters te gaan) to handle the full dataset efficiently.
-    - probleem na gebruik dask. Dataset is niet toereikend. Geen exoten (en dit is het onderwerk van de studie), enkel vogels (geen wasbeer), enkel Vlaanderen en Brussel (wasberen vooral in ardennen), slecht data tem 2018
-    - ik zou ook via polars kunnen werken ipv pandas
-
-aanvraag bij natuurpuntdata
-- 10-jan-2025 PISTE specifieke data aanvragen bij Natuurpuntdata mail gestuurd naar natuurdata@natuurpunt.be om te kijken of ik mijn gewenste data zou kunnen verkrijgen
-    - 20 januari antwoord, met wat extra vragen, waar ik de dag nadien op heb geantwoord
-
-scraping -> 1 maand (15 jan - 17 feb)
-- 15-jan-2025 PISTE SCRAPEN effectief begonnen aan het scrapen voor case halsbandparkiet, boomklever
-    - ik besef dat dit lang gaat duren als ik de waarnemingen elk afzonderlijk moet scrapen
-- 17-feb-2025 gedaan met scrapen
 
 
 
