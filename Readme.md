@@ -48,7 +48,10 @@ Vermits dit veel data betreft en we niet teveel load op de server willen zetten,
 Het verzamelen van de data heeft zo ongeveer 1 maand in beslag genomen.
 
 ## Aannames
-- In onze statistische analyse verzamelen we jaarlijks meer gegevens doordat steeds meer mensen hun waarnemingen loggen op waarnemingen.be. We kennen het totale aantal waarnemingen van vogels. We gaan ervan uit dat het aandeel van elke vogelsoort ten opzichte van elkaar constant blijft als de populatie constant blijft. Als het aandeel van een bepaalde vogelsoort stijgt, nemen we aan dat er daadwerkelijk meer vogels van die soort voorkomen.
+- In onze statistische analyse verzamelen we jaarlijks meer gegevens doordat steeds meer mensen hun waarnemingen loggen op waarnemingen.be. We kennen het totale aantal waarnemingen van vogels en zien dat deze stijgt in functie van de tijd.
+We gaan ervan uit dat het jaarlijkse aandeel van elke vogelsoort constant blijft als het aandeel in de populatie constant blijft. </br>Als het aandeel van een bepaalde vogelsoort stijgt, nemen we aan dat er daadwerkelijk meer vogels van die soort voorkomen.
+- we werken met # observaties en brengen het aantal vogels dat gezien zijn niet in rekening. De reden hiervoor is dat we in de data-analyse hebben gezien dat het aantal waargenomen vogels zich niet stabiel gedraagt en dat er uitschieters zijn. (zie cleaning_yearly_observations)
+De ervaring met waarnemingen.be leert ook dat vele waarnemers niet de moeite doen om het aantal vogels mee te geven, en dan de standaarwaarde '1' wordt meegegeven.
 
 
 
