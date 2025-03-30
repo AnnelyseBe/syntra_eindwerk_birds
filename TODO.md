@@ -1,1 +1,10 @@
-- [ ] bij de csv is er soms iets vreemd bij de "amount". Die wordt weergegeven in verschillende lijnen
+- [ ] 6_regional_investigation
+    - [ ] per gemeente, de stijging in 2024 tov de laatste 5 en de laatste 10 jaar
+        - dit wil zeggen dat we de scaled_data van de laatste 10 jaar ook nog even moeten meenemen en pas later moeten filteren in onze folium kaart
+        - visueel 
+            - de correlatie stijging halsbandparkiet (X-as), boomklever (Y-as)
+            - per gemeente gegroepeerd
+            - aantal scaled waarnemingen (of zelfs unieke observers) geeft de grootte van onze bol
+            - voorbeelden
+                - https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_demo2.html#sphx-glr-gallery-lines-bars-and-markers-scatter-demo2-py
+                - https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html
