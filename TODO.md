@@ -1,6 +1,8 @@
 - [ ] 6_regional_investigation
     - [ ] per gemeente, de stijging in 2024 tov de laatste 5 en de laatste 10 jaar
-        - dit wil zeggen dat we de scaled_data van de laatste 10 jaar ook nog even moeten meenemen en pas later moeten filteren in onze folium kaart
+        - [x] dit wil zeggen dat we de scaled_data van de laatste 10 jaar ook nog even moeten meenemen en pas later moeten filteren in onze folium kaart
+        - [x]iets generieker maken en pas op het einde halsbandparkiet en boomklever mergen
+        - [x] we moeten nog een rollend gemiddelde van 5 jaar meegeven en de stijging van het rollend gemiddelde berekenen over de laatste 5 jaar
         - visueel 
             - de correlatie stijging halsbandparkiet (X-as), boomklever (Y-as)
             - per gemeente gegroepeerd
@@ -8,3 +10,5 @@
             - voorbeelden
                 - https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_demo2.html#sphx-glr-gallery-lines-bars-and-markers-scatter-demo2-py
                 - https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html
+            - [ ] fix, we willen observers per 
+            km2
