@@ -73,5 +73,29 @@ Van de observaties hebben 3% van de boomklevers en 22% van de halsbandparkieten 
 Vermits de halsbandparkiet en de boomklever gemakkelijk te identificeren vogels zijn, en niet snel te verwisselen met andere vogels is er geen rekening gehouden met de validatie status van de obsevatie. Er is besloten om ook de waarnemingen die niet beoordeeld zijn mee te nemen in de oefening.
 
 
+## Structuur van de notebook
+ 
+### 1_scraping
+
+### 2_cleaning
+...
+De data wordt onder de folder "clean_data" opgeslagen in parquet-files, zodat de datatypes behouden blijven
+
+### 3_transformation
+In deze stap wordt de clean data omgezet naar data die klaar is voor gebruik en analyse. 
+Het resultaat bevindt zich in de folder "gold". De data in deze folder bestaat enkel uit data die we effectief nodig hebben in de analyse. De analyse start steeds vanuit de data in de 'gold' folder.
+
+## Afkortingen
+
+* bk: boomklever (boomklever en zijn ondersoorten)
+* hp: halsbandparkiet
+
+## Ideeën
+* elk jaar herhaalbaar, misschien nu nog geen effect, maar populaties beide nog stijgend
+* uitbreidbaar wasbeer tov zwarte ooievaar
+
+
+
+
 
 
