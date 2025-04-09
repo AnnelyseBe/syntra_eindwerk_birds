@@ -19,6 +19,6 @@
             - [ ] fix, we willen observers per km2 
         - [X] visueel de correlatie halsbandparkiet (X-as) waarnemingen/km2, boomklever (Y-as) (groei)
 
-- [ ] De waarden in de jaarlijkse tabel per gemeente, maken in de scaling - Data Tranformation stap, zodat we niet meer moeten omvormen in de analyses
 - [ ] indien nog tijd. De locations_general samenvoegen tot 1 locations_general_clean. Dan nog eens de 5_ webscraping en cleaning van de details
+- [ ] indien nog tijd. Heatmap timelapse
 
