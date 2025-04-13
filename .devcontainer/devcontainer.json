@@ -29,7 +29,8 @@
 				"congyiwu.vscode-jupytext",
 				"GrapeCity.gc-excelviewer",
 				"vscode-infra.image-viewer",
-				"SimonSiefke.html-preview"
+				"SimonSiefke.html-preview",
+				"analytic-signal.preview-pdf"
 			],
 			"settings": {
 				"python.testing.pytestEnabled": true,
