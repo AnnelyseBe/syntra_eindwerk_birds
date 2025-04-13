@@ -28,7 +28,8 @@
 				"mechatroner.rainbow-csv",
 				"congyiwu.vscode-jupytext",
 				"GrapeCity.gc-excelviewer",
-				"vscode-infra.image-viewer"
+				"vscode-infra.image-viewer",
+				"SimonSiefke.html-preview"
 			],
 			"settings": {
 				"python.testing.pytestEnabled": true,
