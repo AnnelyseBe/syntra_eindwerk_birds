@@ -60,15 +60,15 @@ In de tijdsgebonden analyse houden we geen rekening met het aantal waarnemingen 
 Als het aandeel van een bepaalde vogelsoort stijgt, nemen we aan dat er daadwerkelijk meer vogels van die soort voorkomen.
 - We maken de bemerking dat het aandeel van de waarnemingen van een soort niets wil zeggen over zijn effectieve aandeel in de vogelpopulatie. </br> Niet elke vogel is even gemakkelijk te spotten en te herkennen. De vogels die we dagdagelijks zien (kauwen, houtduiven, eksters, ...) worden in verhouding minder gelogd dan de minder frequentere soorten (ijsvogel, zanglijster, ...)
 
-### We werken met observaties en houden geen rekening met het aantal waargenomen vogels tijdens 1 observatie
+### We werken met observaties en niet met het aantal geobserveerde vogels
 - we werken met # observaties en brengen het aantal vogels dat gezien zijn niet in rekening. De reden hiervoor is dat we in de data-analyse hebben gezien dat het aantal waargenomen vogels zich niet stabiel gedraagt en dat er serieuze uitschieters zijn. (zie cleaning_yearly_observations)
 De ervaring met waarnemingen.be leert ook dat vele waarnemers (waaronder mezelf) niet de moeite doen om het aantal vogels mee te geven, en dan de standaarwaarde '1' wordt meegegeven.
 
-### Validation van de observaties
+### Validatie van de observaties wordt niet in rekening genomen
 Van de observaties hebben 3% van de boomklevers en 22% van de halsbandparkieten een onbekende of nog niet beoordeelde validatie.
 Vermits de halsbandparkiet en de boomklever gemakkelijk te identificeren vogels zijn, en niet snel te verwisselen met andere vogels is er geen rekening gehouden met de validatie status van de observatie. Er is besloten om ook de waarnemingen die niet beoordeeld zijn mee te nemen in de oefening.
 
-### Aantal unieke observators ipv het aantal waarnemingen
+### We verkiezen de unieke observators ipv het aantal waarnemingen
 Er zijn verschillende soorten observators op waarnemingen.be. 
 De personen die af en toe eens een waarneming loggen, maar er zijn ook personen die elke dag, elke vogel die ze zien loggen.
 De waarnemingen van deze actieve loggers kunnen een vertekend beeld geven en de actieve loggers kunnen de waarnemingen beginnen domineren.
@@ -119,7 +119,7 @@ Waar de concentratie halsbandparkieten groot is, daar is er een daling in de boo
 De halsbandparkiet is een INVASIEVE exoot, want op plaatsen waar deze zich in grote concentraties bevinden, daar neemt de groei van de boomklever af.
 Vermits het aandeel van de halsbandparkiet nog steeds aan het toenemen is, zal dit effect zich nog verder voortzetten.
 
-## Afkortingen
+## Afkortingen en definities
 * bk: boomklever (boomklever en zijn ondersoorten)
 * hp: halsbandparkiet
 * pym: per jaarlijks miljoen waarnemingen
