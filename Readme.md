@@ -90,6 +90,9 @@ Het resultaat bevindt zich in de folder "gold". De data in deze folder bestaat e
 * bk: boomklever (boomklever en zijn ondersoorten)
 * hp: halsbandparkiet
 
+## Links
+* [Eindwerk presentatie](https://docs.google.com/presentation/d/1t48EphVP-NK68GUzid34xKlaM8LB_F_9SuOflidjTzk/edit?usp=sharing)
+
 ## Ideeën
 * elk jaar herhaalbaar, misschien nu nog geen effect, maar populaties beide nog stijgend
 * uitbreidbaar wasbeer tov zwarte ooievaar
