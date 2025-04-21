@@ -15,5 +15,5 @@ pytest==8.3.4 # unit testing
 folium==0.19.4 # beautiful maps
 seaborn==0.13.2 # statistical data visualization (based on matplotlib)
 
-# rich # pretty formatting in terminal
-
+wordcloud==1.9.4
+pillow==11.2.1
